@@ -13,11 +13,13 @@
 
 - 📫 How to reach me **omkarwagh272@gmail.com**
 
-- ⚡ Fun fact **I think I Learn Things Quickly!!!**
+- ⚡ Fun fact **I leverage my Velvet Velocity approach to stay ahead of the
+  curve in technology,dynamically absorbing new skills and applying them to
+  drive innovation and solve complex problems!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omkar wagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar wagh" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/omkar-wagh-aa7b75304/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar wagh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
