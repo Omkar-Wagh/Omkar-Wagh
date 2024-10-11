@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 <h1 align="center">Hi 👋, I'm Omkar Wagh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
