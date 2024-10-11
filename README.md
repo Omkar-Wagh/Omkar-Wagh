@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Boot Framework**
 
-- 💬 Ask me about **Java, C++ and Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **omkarwagh272@gmail.com**
 
