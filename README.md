@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **omkarwagh272@gmail.com**
 
-- ⚡ Fun fact **I leverage Velvet Velocity to dynamically absorb new skills and drive tech Innovation**
+- ⚡ Fun fact **Adventure**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
