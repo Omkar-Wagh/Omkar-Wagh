@@ -1,3 +1,4 @@
+
 <h1 align="center">Hii👋, I'm Omkar Wagh</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -28,19 +29,15 @@
   <p align="center">
   <a href="https://leetcode.com/omkarwagh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/omkarwagh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
-<!--   <a href="https://leetcode.com/omkarwagh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a> -->
 </p>
 <p align="center">  
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/omkarwagh?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 <br/>
   <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=omkar-wagh&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-wagh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=omkar-wagh&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-wagh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
 </div>
-
-  <br/>
-
-<br/><br/>
+  
+Let me know if you need further improvements! 🚀
