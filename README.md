@@ -1,6 +1,6 @@
 
 <h1 align="center">Hii👋, I'm Omkar Wagh</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-wagh&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-wagh" /> </p>
 
