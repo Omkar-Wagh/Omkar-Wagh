@@ -1,10 +1,8 @@
 
 <h1 align="center">Hii👋, I'm Omkar Wagh</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="coding" width="400" border-radius:15% src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" style="border-radius: 20px;>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar-wagh&label=Profile%20views&color=0e75b6&style=flat" alt="omkar-wagh" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning  **Spring Framework**
 
@@ -24,10 +22,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
-  <!-- Programming Languages -->
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
@@ -35,20 +29,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 
-  <!-- Frontend Development -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-
-  <!-- Backend Framework -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
   </a>
 
-  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -56,9 +43,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
 
-  <!-- Version Control -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <!-- GitHub (white version for dark bg) -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40" style="background-color:white; border-radius:50%; padding:3px;"/>
   </a>
 </p>
 
@@ -72,10 +71,16 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/omkarwagh?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 <br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
+<h2 align="center">⚡ Current Stats ⚡</h2>
+
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=omkar-wagh&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkar-wagh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+
+  <img width="700"
+       src="https://streak-stats.demolab.com?user=omkar-wagh&theme=tokyonight&hide_border=true" />
+
+  <img width="700"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=omkar-wagh&theme=tokyo-night&hide_border=true" />
+
 </div>
   
 Let me know if you need further improvements! 🚀
